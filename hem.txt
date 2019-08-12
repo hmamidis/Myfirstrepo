@@ -1,0 +1,2 @@
+hi this is second repo
+been working on GIT training sesson and hands on lab
